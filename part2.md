@@ -85,4 +85,4 @@ Or *dae/sky/CBlucy.dae*, with hundreds of thousands of triangles:
 <img src="https://i.imgur.com/AkpIWnC.png" width="480px" />
 </center>
 
-Take a moment to refresh yourself on the [write-up and deliverables](/article/21) requirements and conduct some performance comparison experiments of your newly optimized intersection algorithm!
+Take a moment to refresh yourself on the [write-up and deliverables](/writeup) requirements and conduct some performance comparison experiments of your newly optimized intersection algorithm!
