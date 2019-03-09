@@ -121,4 +121,4 @@ And
 </center>
 
 
-Much better! We've drastically reduced noise, and solved our issue with intersecting with point light sources. Remember that you will be running experiments to compare these two methods for the [write-up](/writeup). 
+Much better! We've drastically reduced noise, and solved our issue with intersecting with point light sources. Remember that you will be running experiments to compare these two methods for the [write-up](writeup). 

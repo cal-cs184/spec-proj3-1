@@ -13,18 +13,18 @@ You will implement the core routines of a physically-based renderer using a path
 ## Project Parts
 This time, we've split off each part into its own article:
 
-* Part 1: [Ray Generation and Scene Intersection](/part1)
-* Part 2: [Bounding Volume Hierarchy](/part2)
-* Part 3: [Direct Illumination](/part3)
-* Part 4: [Global Illumination](/part4)
-* Part 5: [Adaptive Sampling](/part5)
+* Part 1: [Ray Generation and Scene Intersection](part1)
+* Part 2: [Bounding Volume Hierarchy](part2)
+* Part 3: [Direct Illumination](part3)
+* Part 4: [Global Illumination](part4)
+* Part 5: [Adaptive Sampling](part5)
 
 All parts are equally weighted at 20 points each, for a total of 100 points.
 
 You'll also want to read these articles:
 
-* [Experiments, Report and Deliverables](/writeup)
-* [Optional Extra Credit Opportunities](/ec)
+* [Experiments, Report and Deliverables](writeup)
+* [Optional Extra Credit Opportunities](ec)
 
 In particular, please read the website writeup and deliverables page before beginning the project. Several parts of this assignment ask you to compare various methods/implementations, and we don't want you to be caught off guard!
 

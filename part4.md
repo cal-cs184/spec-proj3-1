@@ -51,4 +51,4 @@ You still can only render diffuse BSDFs until completing Part 5, however, you sh
 <img src="https://i.imgur.com/rz40F6d.png" width="480px" />
 </center>
 
-Remember you will be running experiments for the [write-up](/writeup) -- since the renders will be taking some time, it's a good idea to start rendering now!
+Remember you will be running experiments for the [write-up](writeup) -- since the renders will be taking some time, it's a good idea to start rendering now!
